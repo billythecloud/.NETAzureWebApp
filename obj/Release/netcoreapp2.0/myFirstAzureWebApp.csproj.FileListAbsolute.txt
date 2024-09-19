@@ -1,0 +1,17 @@
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\appsettings.Development.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\appsettings.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\bower.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\bundleconfig.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\myFirstAzureWebApp.deps.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\myFirstAzureWebApp.runtimeconfig.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\myFirstAzureWebApp.runtimeconfig.dev.json
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\myFirstAzureWebApp.dll
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Release\netcoreapp2.0\myFirstAzureWebApp.pdb
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.csproj.AssemblyReference.cache
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.AssemblyInfoInputs.cache
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.AssemblyInfo.cs
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.csproj.CoreCompileInputs.cache
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.dll
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.pdb
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Release\netcoreapp2.0\myFirstAzureWebApp.genruntimeconfig.cache

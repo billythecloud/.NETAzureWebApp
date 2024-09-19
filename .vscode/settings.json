@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp2.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f2bedfed-5cb2-42cc-9332-9494bdbe818e/resourceGroups/PLU/providers/Microsoft.Web/sites/pluwebapp"
+}

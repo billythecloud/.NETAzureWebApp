@@ -1,0 +1,12 @@
+E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=myFirstAzureWebApp
+--content-root=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\About.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\Contact.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\Error.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\Index.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\_Layout.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\_ValidationScriptsPartial.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\_ViewImports.cshtml
+--file=E:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\Pages\_ViewStart.cshtml
