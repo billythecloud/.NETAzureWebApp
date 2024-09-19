@@ -1,0 +1,17 @@
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\bower.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.deps.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.runtimeconfig.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.runtimeconfig.dev.json
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.dll
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.pdb
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.csproj.AssemblyReference.cache
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.GeneratedMSBuildEditorConfig.editorconfig
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.AssemblyInfoInputs.cache
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.AssemblyInfo.cs
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.csproj.CoreCompileInputs.cache
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.dll
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.pdb
+e:\GIT\Azure App Service\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.genruntimeconfig.cache
