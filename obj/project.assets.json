@@ -8,26 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\plubc\\.nuget\\packages\\": {}
+    "C:\\Users\\PrzemyslawLubczanski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GIT\\Azure App Service\\myFirstAzureWebApp\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\PrzemyslawLubczanski\\OneDrive - Jet Reports Poland s.c\\Desktop\\App serrvice\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj",
       "projectName": "myFirstAzureWebApp",
-      "projectPath": "E:\\GIT\\Azure App Service\\myFirstAzureWebApp\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj",
-      "packagesPath": "C:\\Users\\plubc\\.nuget\\packages\\",
-      "outputPath": "E:\\GIT\\Azure App Service\\myFirstAzureWebApp\\myFirstAzureWebApp\\obj\\",
+      "projectPath": "C:\\Users\\PrzemyslawLubczanski\\OneDrive - Jet Reports Poland s.c\\Desktop\\App serrvice\\myFirstAzureWebApp\\myFirstAzureWebApp.csproj",
+      "packagesPath": "C:\\Users\\PrzemyslawLubczanski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PrzemyslawLubczanski\\OneDrive - Jet Reports Poland s.c\\Desktop\\App serrvice\\myFirstAzureWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\plubc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\PrzemyslawLubczanski\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
@@ -62,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
